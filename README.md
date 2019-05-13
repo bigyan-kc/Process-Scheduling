@@ -11,5 +11,5 @@ These processes are simulated for different:
 * overhead time
 * turnaround time
 
-At the end of the simulation, **the total time of simulation, average wait time for each processes, average length of the waiting
+At the end of the simulation, **the total time of simulation, average wait time for each process, average length of the waiting
 queue** is calculated. 
